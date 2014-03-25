@@ -1,5 +1,5 @@
 ---
-php_packages:
+phpackages:
   - php54.x86_64
   - php54-bcmath.x86_64
   - php54-cli.x86_64
